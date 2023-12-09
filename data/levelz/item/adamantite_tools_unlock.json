@@ -1,0 +1,8 @@
+{
+  "required": false,
+  "replace": false,
+  "skill": "mining",
+  "level": 19,
+  "item": "minecraft:tool",
+  "material": "adamantite"
+}

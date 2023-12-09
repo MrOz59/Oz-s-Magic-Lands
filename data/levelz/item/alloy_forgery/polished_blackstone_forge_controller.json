@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 12,
+    "item": "minecraft:custom_item",
+    "object": "alloyforgery:polished_blackstone_forge_controller"
+}

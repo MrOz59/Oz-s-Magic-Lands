@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "agelity",
+    "level": 1,
+    "item": "minecraft:custom_item",
+    "object": "magistuarmory:copper_stylet"
+}

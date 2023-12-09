@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "strenght",
+    "level": 18,
+    "item": "minecraft:custom_item",
+    "object": "magistuarmory:netherite_shortsword"
+}

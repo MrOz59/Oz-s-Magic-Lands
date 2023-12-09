@@ -1,0 +1,8 @@
+{
+  "required": false,
+  "replace": false,
+  "skill": "defense",
+  "level": 17,
+  "item": "minecraft:armor",
+  "material": "prismarine"
+}

@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "level": 10,
+    "block": [
+        "minecraft:emerald_ore",
+        "minecraft:emerald_block",
+        "minecraft:deepslate_emerald_ore",
+		"universal_ores:granite_emerald_ore",
+		"universal_ores:diorite_emerald_ore",
+		"universal_ores:andesite_emerald_ore",
+		"universal_ores:tuff_emerald_ore",
+		"universal_ores:calcite_emerald_ore",
+        "geode_plus:emerald_cluster_block",
+		"geode_plus:budding_emerald",
+		"geode_plus:budding_sculk_emerald",
+		"geode_plus:budding_deepslate_emerald",
+		"geode_plus:emerald_cluster",
+		"geode_plus:large_emerald_bud",
+		"geode_plus:medium_emerald_bud",
+		"geode_plus:small_emerald_bud"
+    ]
+}

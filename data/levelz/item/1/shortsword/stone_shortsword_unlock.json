@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "strenght",
+    "level": 3,
+    "item": "minecraft:custom_item",
+    "object": "magistuarmory:stone_shortsword"
+}

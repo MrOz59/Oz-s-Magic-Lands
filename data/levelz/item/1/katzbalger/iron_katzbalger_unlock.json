@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "strenght",
+    "level": 8,
+    "item": "minecraft:custom_item",
+    "object": "magistuarmory:iron_katzbalger"
+}

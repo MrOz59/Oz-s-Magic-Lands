@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "level": 19,
+    "block": [
+        "minecraft:beacon",
+        "mythicmetals:raw_adamantite_block",
+		"mythicmetals:adamantite_block",
+		"mythicmetals:adamantite_ore",
+        "mythicmetals:deepslate_adamantite_ore",
+        "mythicmetals:raw_prometheum_block",
+		"mythicmetals:prometheum_block",
+		"mythicmetals:prometheum_ore"
+    ]
+}

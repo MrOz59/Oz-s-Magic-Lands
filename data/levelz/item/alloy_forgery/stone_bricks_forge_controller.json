@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 5,
+    "item": "minecraft:custom_item",
+    "object": "alloyforgery:stone_bricks_forge_controller"
+}

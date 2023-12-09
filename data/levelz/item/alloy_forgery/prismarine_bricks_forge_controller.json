@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 12,
+    "item": "minecraft:custom_item",
+    "object": "alloyforgery:prismarine_bricks_forge_controller"
+}

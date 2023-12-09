@@ -1,0 +1,8 @@
+{
+  "required": false,
+  "replace": false,
+  "skill": "defense",
+  "level": 14,
+  "item": "minecraft:armor",
+  "material": "divine"
+}

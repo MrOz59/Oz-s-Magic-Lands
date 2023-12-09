@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "strenght",
+    "level": 6,
+    "item": "minecraft:custom_item",
+    "object": "magistuarmory:steel_shortsword"
+}

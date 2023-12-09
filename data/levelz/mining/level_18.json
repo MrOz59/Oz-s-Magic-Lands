@@ -1,0 +1,27 @@
+{
+	"replace": false,
+	"level": 18,
+	"block": [
+		"minecraft:end_stone",
+		"minecraft:end_stone_brick_slab",
+		"minecraft:end_stone_brick_stairs",
+		"minecraft:end_stone_brick_wall",
+		"minecraft:end_stone_bricks",
+		"minecraft:purpur_block",
+		"minecraft:purpur_pillar",
+		"minecraft:purpur_slab",
+		"minecraft:purpur_stairs",
+		"minecraft:end_rod",
+		"minecraft:chorus_flower",
+		"minecraft:chorus_plant",
+		"mythicmetals:orichalcum_block",
+		"mythicmetals:raw_orichalcum_block",
+		"mythicmetals:orichalcum_ore",
+		"mythicmetals:deepslate_orichalcum_ore",
+		"mythicmetals:tuff_orichalcum_ore",
+		"mythicmetals:smooth_basalt_orichalcum_ore",
+		"mythicmetals:platinum_block",
+		"mythicmetals:raw_platinum_block",
+		"mythicmetals:platinum_ore"
+	]
+}
