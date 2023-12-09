@@ -1,6 +1,6 @@
 {
     "replace": false,
-    "skill": "strenght",
+    "skill": "strength",
     "level": 11,
     "item": "minecraft:custom_item",
     "object": "magistuarmory:iron_ahlspiess"

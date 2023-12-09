@@ -1,6 +1,6 @@
 {
     "replace": false,
-    "skill": "strenght",
+    "skill": "strength",
     "level": 18,
     "item": "minecraft:custom_item",
     "object": "magistuarmory:netherite_katzbalger"

@@ -1,7 +1,7 @@
 {
     "replace": false,
     "skill": "strength",
-    "level": 8,
+    "level": 14,
     "item": "minecraft:custom_item",
-    "object": "magistuarmory:iron_katzbalger"
+    "object": "magistuarmory:diamond_shortsword"
 }

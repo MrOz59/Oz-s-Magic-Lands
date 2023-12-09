@@ -1,6 +1,6 @@
 {
     "replace": false,
-    "skill": "strenght",
+    "skill": "strength",
     "level": 10,
     "item": "minecraft:custom_item",
     "object": "magistuarmory:steel_pike"

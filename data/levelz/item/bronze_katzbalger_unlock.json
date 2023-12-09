@@ -1,6 +1,6 @@
 {
     "replace": false,
-    "skill": "strenght",
+    "skill": "strength",
     "level": 7,
     "item": "minecraft:custom_item",
     "object": "magistuarmory:bronze_katzbalger"
