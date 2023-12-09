@@ -1,6 +1,6 @@
 {
     "replace": false,
-    "skill": "agelity",
+    "skill": "agility",
     "level": 18,
     "item": "minecraft:custom_item",
     "object": "magistuarmory:netherite_stylet"

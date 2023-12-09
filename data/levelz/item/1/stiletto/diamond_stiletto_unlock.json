@@ -1,6 +1,6 @@
 {
     "replace": false,
-    "skill": "agelity",
+    "skill": "agility",
     "level": 14,
     "item": "minecraft:custom_item",
     "object": "magistuarmory:steel_stylet"
