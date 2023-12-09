@@ -1,1 +1,1 @@
-# Magic-Lands-DATAPACK-temporary-name-
+# Magic-Lands-DATAPACK
