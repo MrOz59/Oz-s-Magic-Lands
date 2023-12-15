@@ -1,6 +1,9 @@
 {
-   "pack": {
-      "pack_format": 15,
-      "description": "Datapack de rebalanceamento dos nives para o modpack Magic Lands REFABRIC"
-   }
+    "pack": {
+        "name": "Magic Lands",
+        "id": "magiclands",
+        "pack_format": 15,
+        "version": "1.0.1",
+        "description": "Datapack de rebalanceamento dos nives para o modpack Magic Lands REFABRIC"
+    }
 }

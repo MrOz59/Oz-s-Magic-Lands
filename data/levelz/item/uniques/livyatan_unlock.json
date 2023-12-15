@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "strength",
-  "level": 18,
-  "item": "minecraft:custom_item",
-  "object": "simplyswords:livyatan"
+    "required": false,
+    "replace": false,
+    "skill": "strength",
+    "level": 18,
+    "item": "minecraft:custom_item",
+    "object": "simplyswords:livyatan"
 }

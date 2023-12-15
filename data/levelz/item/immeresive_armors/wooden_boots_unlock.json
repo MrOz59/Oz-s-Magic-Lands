@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "defense",
-  "level": 3,
-  "item": "minecraft:armor",
-  "material": "wooden"
+    "required": false,
+    "replace": false,
+    "skill": "defense",
+    "level": 3,
+    "item": "minecraft:armor",
+    "material": "wooden"
 }

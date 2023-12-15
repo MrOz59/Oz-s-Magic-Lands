@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "agility",
-  "level": 18,
-  "item": "minecraft:custom_item",
-  "object": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_rapier"
+    "required": false,
+    "replace": false,
+    "skill": "agility",
+    "level": 18,
+    "item": "minecraft:custom_item",
+    "object": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_rapier"
 }

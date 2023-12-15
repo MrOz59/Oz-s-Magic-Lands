@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "farming",
-  "level": 19,
-  "item": "minecraft:hoe",
-  "material": "adamantite"
+    "required": false,
+    "replace": false,
+    "skill": "farming",
+    "level": 19,
+    "item": "minecraft:hoe",
+    "material": "adamantite"
 }

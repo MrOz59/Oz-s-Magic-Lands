@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "translate": "advancements.magiclands.root.title",
+            "color": "light_purple"
+        },
+        "description": {
+            "translate": "advancements.magiclands.root.description"
+        },
+        "icon": {
+            "item": "minecraft:ender_eye"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+    },
+    "criteria": {
+        "welcome": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "requirements": [
+        [
+            "welcome"
+        ]
+    ]
+}

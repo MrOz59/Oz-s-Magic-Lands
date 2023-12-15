@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "defense",
-  "level": 10,
-  "item": "minecraft:armor",
-  "material": "steampunk"
+    "required": false,
+    "replace": false,
+    "skill": "defense",
+    "level": 10,
+    "item": "minecraft:armor",
+    "material": "steampunk"
 }

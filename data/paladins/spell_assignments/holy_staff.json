@@ -1,0 +1,7 @@
+{
+    "is_proxy": true,
+    "pool": [
+        "paladins:priest",
+        "paladins:paladin"
+    ]
+}

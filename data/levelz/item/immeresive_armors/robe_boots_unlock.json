@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "defense",
-  "level": 5,
-  "item": "minecraft:armor",
-  "material": "robe"
+    "required": false,
+    "replace": false,
+    "skill": "defense",
+    "level": 5,
+    "item": "minecraft:armor",
+    "material": "robe"
 }

@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "farming",
-  "level": 20,
-  "item": "minecraft:axe",
-  "material": "celestium"
+    "required": false,
+    "replace": false,
+    "skill": "farming",
+    "level": 20,
+    "item": "minecraft:axe",
+    "material": "celestium"
 }

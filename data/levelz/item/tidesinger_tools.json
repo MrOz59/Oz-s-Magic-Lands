@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "mining",
-  "level": 17,
-  "item": "minecraft:tool",
-  "material": "tidesinger"
+    "required": false,
+    "replace": false,
+    "skill": "mining",
+    "level": 17,
+    "item": "minecraft:tool",
+    "material": "tidesinger"
 }

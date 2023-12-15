@@ -1,4 +1,3 @@
 {
-    "is_proxy": false,
-    "pool": "paladins:paladin"
-  }
+    "is_proxy": true
+}

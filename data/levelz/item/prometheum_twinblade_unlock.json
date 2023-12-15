@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "agility",
-  "level": 19,
-  "item": "minecraft:custom_item",
-  "object": "simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade"
+    "required": false,
+    "replace": false,
+    "skill": "agility",
+    "level": 19,
+    "item": "minecraft:custom_item",
+    "object": "simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade"
 }

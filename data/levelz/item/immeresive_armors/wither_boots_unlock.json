@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "defense",
-  "level": 4,
-  "item": "minecraft:armor",
-  "material": "wither"
+    "required": false,
+    "replace": false,
+    "skill": "defense",
+    "level": 4,
+    "item": "minecraft:armor",
+    "material": "wither"
 }

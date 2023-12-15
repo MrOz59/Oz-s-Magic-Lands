@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 6,
+    "item": "minecraft:custom_item",
+    "object": "paladins:golden_claymore"
+}

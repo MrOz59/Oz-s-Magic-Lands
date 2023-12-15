@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "environment": "*",
+    "depends": {
+        "fabric-api-base": "*",
+        "fabric": "*",
+        "minecraft": ">=1.20.0 <=1.20.1"
+    },
+    "name": "Magic Lands",
+    "id": "magiclands",
+    "version": "1.0.0",
+    "description": "Datapack de rebalanceamento dos nives para o modpack Magic Lands REFABRIC",
+    "license": "MIT",
+    "icon": "pack.png"
+}

@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "farming",
-  "level": 19,
-  "item": "minecraft:axe",
-  "material": "prometheum"
+    "required": false,
+    "replace": false,
+    "skill": "farming",
+    "level": 19,
+    "item": "minecraft:axe",
+    "material": "prometheum"
 }

@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "defense",
-  "level": 6,
-  "item": "minecraft:armor",
-  "material": "warrior"
+    "required": false,
+    "replace": false,
+    "skill": "defense",
+    "level": 6,
+    "item": "minecraft:armor",
+    "material": "warrior"
 }

@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "farming",
-  "level": 4,
-  "item": "minecraft:hoe",
-  "material": "copper"
+    "required": false,
+    "replace": false,
+    "skill": "farming",
+    "level": 4,
+    "item": "minecraft:hoe",
+    "material": "copper"
 }

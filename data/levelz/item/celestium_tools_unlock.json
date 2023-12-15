@@ -1,8 +1,8 @@
 {
-  "required": false,
-  "replace": false,
-  "skill": "mining",
-  "level": 20,
-  "item": "minecraft:tool",
-  "material": "celestium"
+    "required": false,
+    "replace": false,
+    "skill": "mining",
+    "level": 20,
+    "item": "minecraft:tool",
+    "material": "celestium"
 }

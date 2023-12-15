@@ -1,7 +1,7 @@
 {
-  "replace": false,
-  "skill": "farming",
-  "level": 18,
-  "item": "minecraft:axe",
-  "material": "legendary_banglum"
+    "replace": false,
+    "skill": "farming",
+    "level": 18,
+    "item": "minecraft:axe",
+    "material": "legendary_banglum"
 }

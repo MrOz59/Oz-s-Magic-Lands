@@ -1,20 +1,20 @@
 {
-	"replace": false,
-	"level": 7,
-	"block": [
-		"minecraft:gold_ore",
-		"minecraft:gold_block",
-		"minecraft:deepslate_gold_ore",
-		"minecraft:raw_gold_block",
-		"minecraft:blue_ice",
-		"minecraft:ice",
-		"minecraft:packed_ice",
-		"universal_ores:granite_gold_ore",
-		"universal_ores:diorite_gold_ore",
-		"universal_ores:andesite_gold_ore",
-		"universal_ores:tuff_gold_ore",
-		"universal_ores:calcite_gold_ore",
-		"universal_ores:basalt_gold_ore",
-		"universal_ores:blackstone_gold_ore"
-	]
+    "replace": false,
+    "level": 7,
+    "block": [
+        "minecraft:gold_ore",
+        "minecraft:gold_block",
+        "minecraft:deepslate_gold_ore",
+        "minecraft:raw_gold_block",
+        "minecraft:blue_ice",
+        "minecraft:ice",
+        "minecraft:packed_ice",
+        "universal_ores:granite_gold_ore",
+        "universal_ores:diorite_gold_ore",
+        "universal_ores:andesite_gold_ore",
+        "universal_ores:tuff_gold_ore",
+        "universal_ores:calcite_gold_ore",
+        "universal_ores:basalt_gold_ore",
+        "universal_ores:blackstone_gold_ore"
+    ]
 }

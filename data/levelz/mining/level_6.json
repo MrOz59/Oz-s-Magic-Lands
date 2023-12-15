@@ -1,13 +1,12 @@
 {
-	"replace": false,
-	"level": 6,
-	"block": [
-		"mythicmetals:silver_ore",
-		"mythicmetals:raw_silver_block",
-		"mythicmetals:silver_block",
-		"mythicmetals:tin_ore",
-		"mythicmetals:raw_tin_block",
-		"mythicmetals:tin_block"
-		
-	]
+    "replace": false,
+    "level": 6,
+    "block": [
+        "mythicmetals:silver_ore",
+        "mythicmetals:raw_silver_block",
+        "mythicmetals:silver_block",
+        "mythicmetals:tin_ore",
+        "mythicmetals:raw_tin_block",
+        "mythicmetals:tin_block"
+    ]
 }
