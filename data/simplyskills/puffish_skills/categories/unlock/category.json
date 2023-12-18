@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": true,
+	"exclusive_root": false,
+	"title": "unlock",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "diamond_pickaxe"
+		}
+	},
+	"background": "betternether:textures/block/nether_reed_roof.png"
+}
