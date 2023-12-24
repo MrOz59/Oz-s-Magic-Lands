@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 20,
+    "item": "minecraft:custom_item",
+    "object": "mythicmetals:mytril_drill"
+}

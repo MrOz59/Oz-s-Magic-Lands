@@ -1,6 +1,6 @@
 {
-    "replace": false,
+    "replace": true,
     "skill": "farming",
-    "level": 0,
+    "level": 1,
     "block": "minecraft:composter"
 }

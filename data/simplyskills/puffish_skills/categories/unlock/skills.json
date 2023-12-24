@@ -66,25 +66,25 @@
 		"root": true
 	},
 	"uw5sbo9up3nr9dmf": {
-		"definition": "ferraria +1",
+		"definition": "forge lv2",
 		"x": 0,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"eugmhq8eqiva49lo": {
-		"definition": "ferraria +1",
+		"definition": "forge lv3",
 		"x": 0,
 		"y": -147.8016689125442,
 		"root": false
 	},
 	"4eg9blyv4b6m1nvc": {
-		"definition": "ferraria +1",
+		"definition": "forge lv4",
 		"x": 0,
 		"y": -221.70250336881628,
 		"root": false
 	},
 	"bhqkyd9fzoxszdq3": {
-		"definition": "ferraria +1",
+		"definition": "forge lv5",
 		"x": 0,
 		"y": -295.6033378250884,
 		"root": false
@@ -102,25 +102,25 @@
 		"root": true
 	},
 	"t891o136fwgn3zeg": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv2",
 		"x": -256,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"t7dytkcuil6vs6z2": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv3",
 		"x": -256,
 		"y": -147.8016689125442,
 		"root": false
 	},
 	"jachcw4z4kluv37x": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv4",
 		"x": -256,
 		"y": -221.70250336881628,
 		"root": false
 	},
 	"qwqtuu2trpahrq88": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv5",
 		"x": -256,
 		"y": -295.6033378250884,
 		"root": false
@@ -204,205 +204,205 @@
 		"root": false
 	},
 	"q8bb0tvkowldwwt4": {
-		"definition": "cultivo +1",
+		"definition": "farming lv2",
 		"x": -128,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"a4koswcuhugcxfaq": {
-		"definition": "cultivo +1",
+		"definition": "farming lv3",
 		"x": -128,
 		"y": -147.8016689125442,
 		"root": false
 	},
 	"lzv72hojoea6v2f0": {
-		"definition": "cultivo +1",
+		"definition": "farming lv4",
 		"x": -128,
 		"y": -221.70250336881622,
 		"root": false
 	},
 	"fw5acauvwzxo39t3": {
-		"definition": "cultivo +1",
+		"definition": "farming lv5",
 		"x": -128,
 		"y": -295.6033378250884,
 		"root": false
 	},
 	"qpnmiyuhpkcrnard": {
-		"definition": "cultivo +1",
+		"definition": "farming lv6",
 		"x": -160,
 		"y": -399.8714520454556,
 		"root": false
 	},
 	"94368yx7z5jpj9tt": {
-		"definition": "cultivo +1",
+		"definition": "farming lv7",
 		"x": -190.81079288499723,
 		"y": -456.4862850026624,
 		"root": false
 	},
 	"7wxoa03aaa65avg8": {
-		"definition": "cultivo +1",
+		"definition": "farming lv8",
 		"x": -226.37841423000543,
 		"y": -503.5874610398474,
 		"root": false
 	},
 	"k0ji2nmnww5of00v": {
-		"definition": "cultivo +1",
+		"definition": "farming lv9",
 		"x": -258.37841423000543,
 		"y": -554.2562584220406,
 		"root": false
 	},
 	"ojrr3iw5buzg0z17": {
-		"definition": "cultivo +1",
+		"definition": "farming lv10",
 		"x": -295.13524269001636,
 		"y": -613.2495056092528,
 		"root": false
 	},
 	"c3l7pttdud3zwkci": {
-		"definition": "cultivo +1",
+		"definition": "farming lv11",
 		"x": -323.5676213450081,
 		"y": -675.8103741414733,
 		"root": false
 	},
 	"u3mmndjklba3zrtv": {
-		"definition": "cultivo +1",
+		"definition": "farming lv12",
 		"x": -340.86475730998376,
 		"y": -751.4835531767891,
 		"root": false
 	},
 	"hqfhm3qltjn9tlfk": {
-		"definition": "cultivo +1",
+		"definition": "farming lv13",
 		"x": -331.89207115002716,
 		"y": -828.5409707600653,
 		"root": false
 	},
 	"1fmx5o6ntmx0cbwm": {
-		"definition": "cultivo +1",
+		"definition": "farming lv14",
 		"x": -298.7028640350245,
 		"y": -892.5409707600651,
 		"root": false
 	},
 	"kx6ehw07xsfzdw40": {
-		"definition": "cultivo +1",
+		"definition": "farming lv16",
 		"x": -212.10792884997284,
 		"y": -997.9460355750134,
 		"root": false
 	},
 	"y6dha6f0rf9rvn8x": {
-		"definition": "cultivo +1",
+		"definition": "farming lv17",
 		"x": -160,
 		"y": -1056,
 		"root": false
 	},
 	"xe0uoypf1xfxzq8m": {
-		"definition": "cultivo +1",
+		"definition": "farming lv20",
 		"x": -160,
 		"y": -1248,
 		"root": false
 	},
 	"s1q8hc7265euixkg": {
-		"definition": "cultivo +1",
+		"definition": "farming lv19",
 		"x": -160,
 		"y": -1184,
 		"root": false
 	},
 	"pn6xgtxe8n5pxcht": {
-		"definition": "cultivo +1",
+		"definition": "farming lv18",
 		"x": -160,
 		"y": -1120,
 		"root": false
 	},
 	"bd0a604u80p0bcsg": {
-		"definition": "cultivo +1",
+		"definition": "farming lv15",
 		"x": -256.0000000000001,
 		"y": -944.648899610038,
 		"root": false
 	},
 	"01jb7lcod3sc84sz": {
-		"definition": "ferraria +1",
+		"definition": "forge lv6",
 		"x": 0,
 		"y": -352,
 		"root": false
 	},
 	"3f5s3lw9k6fngtbj": {
-		"definition": "ferraria +1",
+		"definition": "forge lv7",
 		"x": 0,
 		"y": -416,
 		"root": false
 	},
 	"7szd3pg8kqx21pjf": {
-		"definition": "ferraria +1",
+		"definition": "forge lv8",
 		"x": 0,
 		"y": -480,
 		"root": false
 	},
 	"zei1rahn0225cb5x": {
-		"definition": "ferraria +1",
+		"definition": "forge lv9",
 		"x": 0,
 		"y": -544,
 		"root": false
 	},
 	"jqm82neokmb51f54": {
-		"definition": "ferraria +1",
+		"definition": "forge lv10",
 		"x": 0,
 		"y": -608,
 		"root": false
 	},
 	"eoeohd7ba1wqmyo4": {
-		"definition": "ferraria +1",
+		"definition": "forge lv11",
 		"x": 0,
 		"y": -672,
 		"root": false
 	},
 	"d0uizfqfi409br5s": {
-		"definition": "ferraria +1",
+		"definition": "forge lv12",
 		"x": 0,
 		"y": -736,
 		"root": false
 	},
 	"boms1tj1up043bkk": {
-		"definition": "ferraria +1",
+		"definition": "forge lv13",
 		"x": 0,
 		"y": -800,
 		"root": false
 	},
 	"bklrwnu7t0id5sq9": {
-		"definition": "ferraria +1",
+		"definition": "forge lv14",
 		"x": 0,
 		"y": -864,
 		"root": false
 	},
 	"w3yzn4t5sd4lkfng": {
-		"definition": "ferraria +1",
+		"definition": "forge lv15",
 		"x": 0,
 		"y": -928,
 		"root": false
 	},
 	"5xl94wx1ok8rvcu4": {
-		"definition": "ferraria +1",
+		"definition": "forge lv16",
 		"x": 0,
 		"y": -992,
 		"root": false
 	},
 	"3g7itpejizw0hx5s": {
-		"definition": "ferraria +1",
+		"definition": "forge lv17",
 		"x": 0,
 		"y": -1056,
 		"root": false
 	},
 	"mbbpw1u889mgce0r": {
-		"definition": "ferraria +1",
+		"definition": "forge lv18",
 		"x": 0,
 		"y": -1120,
 		"root": false
 	},
 	"a3amuaubgmu9uk80": {
-		"definition": "ferraria +1",
+		"definition": "forge lv19",
 		"x": 0,
 		"y": -1184,
 		"root": false
 	},
 	"gtrnsh7bv3ga7uey": {
-		"definition": "ferraria +1",
+		"definition": "forge lv20",
 		"x": 0,
 		"y": -1248,
 		"root": false
@@ -588,91 +588,91 @@
 		"root": false
 	},
 	"6u0c5z025i341pfc": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv6",
 		"x": -281.4590292399351,
 		"y": -362.7783760594153,
 		"root": false
 	},
 	"ul56tq9c17srf6rl": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv7",
 		"x": -324.24093754290556,
 		"y": -420.66689314452935,
 		"root": false
 	},
 	"sg936q4qykhon514": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv8",
 		"x": -370.24160079800583,
 		"y": -474.6135919746431,
 		"root": false
 	},
 	"dse9big7c3x10tau": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv9",
 		"x": -407.1070213630898,
 		"y": -532.9387050347623,
 		"root": false
 	},
 	"p8re0o156tm5z5w5": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv10",
 		"x": -436.72927038818483,
 		"y": -597.966682129906,
 		"root": false
 	},
 	"ssflrxqh1ndyfxdz": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv11",
 		"x": -459.70261980324176,
 		"y": -667.7514876850604,
 		"root": false
 	},
 	"wx2x83plx3kqcasr": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv12",
 		"x": -466.4054838382661,
 		"y": -735.9686718952069,
 		"root": false
 	},
 	"l0y81hdnmjkhdyrx": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv13",
 		"x": -452.83786249325806,
 		"y": -806.834755715391,
 		"root": false
 	},
 	"ppf7auv9qy065fkg": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv14",
 		"x": -434.78323481317125,
 		"y": -878.0792537655809,
 		"root": false
 	},
 	"krdu3wfwtelap2nf": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv15",
 		"x": -391.7552577180274,
 		"y": -938.8374087357925,
 		"root": false
 	},
 	"kkq63zhk7eh4cpm2": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv16",
 		"x": -334.56538734792457,
 		"y": -996.73014314092,
 		"root": false
 	},
 	"nrc7f3vjvinfewm8": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv20",
 		"x": -288,
 		"y": -1248,
 		"root": false
 	},
 	"h7ptjif58ynpz304": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv19",
 		"x": -288,
 		"y": -1184,
 		"root": false
 	},
 	"o96t95gm3ycsku10": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv18",
 		"x": -288,
 		"y": -1120,
 		"root": false
 	},
 	"db1qz6hdts6ebbmd": {
-		"definition": "alquimia +1",
+		"definition": "alchemy lv17",
 		"x": -288,
 		"y": -1056,
 		"root": false

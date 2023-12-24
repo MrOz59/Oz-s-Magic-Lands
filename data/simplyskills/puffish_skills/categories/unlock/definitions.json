@@ -102,8 +102,8 @@
 		}
 	},
 	"root_farming": {
-		"title": "§aVila dos ... oque era mesmo?",
-		"description": "§f[+1 Nivel]§7 de Cultivo\nCada nivel desloqueia novas ferramentas e mobs e aumenta chance de vir mais itens nas colheitas em 1%",
+		"title": "§aVila dos ... oque era mesmo?",		
+		"description": "§f[+1 Nivel]§7 de Cultivo\nCada nivel desloqueia novas ferramentas e mobs e aumenta chance de vir mais itens nas colheitas em 1%\n§fDesbloqueia:\n§aComposteira\nBalde",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -871,5 +871,1376 @@
 		],
 		"editor-color": "#fff600"
 	}
+	,"farming lv2": {
+		"title": "§aCultivo Nivel 2",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aVara de Pesca",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv3": {
+		"title": "§aCultivo Nivel 3",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aLobo\nGirino\nReprodução de Animais",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv4": {
+		"title": "§aCultivo Nivel 4",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aMachado de Pedra\nMachado de Cobre\nEnxada de Pedra\nEnxada de Cobre",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv5": {
+		"title": "§aCultivo Nivel 5",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aColmeia Artificial\nAbóbora\nTesoura",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv6": {
+		"title": "§aCultivo Nivel 6",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aMachado de Ouro\nEnxada de Ouro",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"farming lv7": {
+		"title": "§aCultivo Nivel 7",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aVaca\nVaca Cogumelo\nMachado de Osmio\nEnxada de Osmio",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv8": {
+		"title": "§aCultivo Nivel 8",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aOvelha\nAxolote\nMachado de Ferro\nEnxada de Ferro\nMachado de Banglum\nEnxada de Baglum",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv9": {
+		"title": "§aCultivo Nivel 9",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aCabra\nMachado de Aquarium\nEnxada de Aquarium\nMachado de Bronze\nEnxada de Bronze\nMachado de Kyber\nEnxada de Kyber\nFaca de Kyber\nMachado de Aço\n Enxada de Aço",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv10": {
+		"title": "§aCultivo Nivel 10",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aDefumador\nTear\nEnxada de Quadrillium\nMachado de Quadrillium",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv11": {
+		"title": "§aCultivo Nivel 11",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\n§aAllay",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv12": {
+		"title": "§aCultivo Nivel 12",
+		"description": "§f[+1% de chance de vir colheita em dobro]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv13": {
+		"title": "§aCultivo Nivel 13",
+		"description": "§f[+1% de chance de vir colheita em dobro]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv14": {
+		"title": "§aCultivo Nivel 14",
+		"description": "§f[+1% de chance de vir colheita em dobro]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv15": {
+		"title": "§aCultivo Nivel 15",
+		"description": "§f[+1% de chance de vir colheita em dobro]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv16": {
+		"title": "§aCultivo Nivel 16",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\nMachado de Diamnate\nEnxada de Diamante\nMachado Santificado\nEnxada Santificada\nMachado de Mitril\nEnxada de Mitril",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv17": {
+		"title": "§aCultivo Nivel 17",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\nMachado de Carmot\nEnxada de Carmot\nMachado de Paládio\nEnxada de Paládio\nMachado de Runita\nEnxada de Runita\nMachado de Stromix\nEnxada de Stromix\nMachado de Tidesinger\nExada de Tidesinger",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv18": {
+		"title": "§aCultivo Nivel 18",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\nMachado de Durasteel\nEnxada de Durasteel\nMachado de Oricalco\nEnxada de Oricalco\nLendária Enxada Banglum\nLendário Machado Banglum",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv19": {
+		"title": "§aCultivo Nivel 19",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\nMachado de Adamantita\nEnxada de Adamantita\nMachado de Prometheum\nEnxada de Prometheum",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"farming lv20": {
+		"title": "§aCultivo Nivel 20",
+		"description": "§f[+1% de chance de vir colheita em dobro]\n§fDesbloqueia:\nMachado de Netherita\nEnxada de Netherita\nMachado de Rubi\nEnxada de Rubi\nMachado de Topazio\nEnxada de Topazio\nMachado de Rubi\nEnxada de Rubi\nMachado de Jade\nMachado de Água-Marinha\nMachado de Safira\nMachado de Ametrino\nMachado de Platina Estelar\nEnxada de Platina Estelar\n§bMachado Celestial\nEnxada Celestial\nMachado de Metallurgium\nEnxada de Metallurgium",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_hoe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add farming 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv2": {
+		"title": "§aAlquimia Nível 2",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]\n§fDesbloqueia:\nCaldeirão",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv3": {
+		"title": "§aAlquimia Nível 3",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv4": {
+		"title": "§aAlquimia Nível 4",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv5": {
+		"title": "§aAlquimia Nível 5",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]\n§fDesbloqueia:\nMesa de Encantamentos",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv6": {
+		"title": "§aAlquimia Nível 6",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv7": {
+		"title": "§aAlquimia Nível 7",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv8": {
+		"title": "§aAlquimia Nível 8",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]\n§fDesbloqueia:\nTotem da Imortalidade",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv9": {
+		"title": "§aAlquimia Nível 9",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv10": {
+		"title": "§aAlquimia Nível 10",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv11": {
+		"title": "§aAlquimia Nível 11",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv12": {
+		"title": "§aAlquimia Nível 12",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv13": {
+		"title": "§aAlquimia Nível 13",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv14": {
+		"title": "§aAlquimia Nível 14",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv15": {
+		"title": "§aAlquimia Nível 15",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv16": {
+		"title": "§aAlquimia Nível 16",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv17": {
+		"title": "§aAlquimia Nível 17",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]\n§fDesbloqueia:\nBafo do Dragão",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv18": {
+		"title": "§aAlquimia Nível 18",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv19": {
+		"title": "§aAlquimia Nível 19",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"alchemy lv20": {
+		"title": "§aAlquimia Nível 20",
+		"description": "§f[Aumenta a chance de um Ecantamento mais forte em 0,5%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:brewing_stand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add alchemy 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv2": {
+		"title": "§aForja Nível 2",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv3": {
+		"title": "§aForja Nível 3",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv4": {
+		"title": "§aForja Nível 4",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]\n§fDesbloqueia:\nRebolo",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv5": {
+		"title": "§aForja Nível 5",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv6": {
+		"title": "§aForja Nível 6",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv7": {
+		"title": "§aForja Nível 7",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv8": {
+		"title": "§aForja Nível 8",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]\n§fDesbloqueia:\nPederneira",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv9": {
+		"title": "§aForja Nível 9",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv10": {
+		"title": "§aForja Nível 10",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]\n§fDesbloqueia:\nBigorna",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv11": {
+		"title": "§aForja Nível 11",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv12": {
+		"title": "§aForja Nível 12",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]\n§fDesbloqueia:\nAlto-forno",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv13": {
+		"title": "§aForja Nível 13",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv14": {
+		"title": "§aForja Nível 14",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv15": {
+		"title": "§aForja Nível 15",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv16": {
+		"title": "§aForja Nível 16",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv17": {
+		"title": "§aForja Nível 17",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv18": {
+		"title": "§aForja Nível 18",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv19": {
+		"title": "§aForja Nível 19",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"forge lv20": {
+		"title": "§aForja Nível 20",
+	"description": "§f[Diminui o dano a durabilidade de ferramentas em 1%]\n[Diminui o custo de XP da bigorna em 0,015%]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "betterend:iron_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add smithing 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	}
+
 	
 }

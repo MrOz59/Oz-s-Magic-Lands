@@ -1,6 +1,6 @@
 {
-    "replace": false,
-    "skill": "farming",
-    "level": 1,
+    "replace": true,
+    "skill": "mining",
+    "level": 2,
     "block": "minecraft:furnace"
 }
