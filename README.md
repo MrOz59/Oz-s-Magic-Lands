@@ -6,7 +6,7 @@ This datapack aims to balance a combination of mods, currently supports Mythic M
 Planned mods:
 Full RPG Series
 
-Deep and Daker
+Deep and Darker
 
 Better Nether
 
