@@ -1,7 +1,7 @@
 {
     "replace": true,
     "skill": "mining",
-    "level": 9,
+    "level": 10,
     "item": "minecraft:tool",
     "material": "quadrillum"
 }

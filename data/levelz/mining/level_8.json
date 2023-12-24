@@ -2,9 +2,10 @@
     "replace": false,
     "level": 8,
     "block": [
-        "mythicmetals:osmium_ore",
-        "mythicmetals:osmium_block",
-        "mythicmetals:raw_osmium_block",
+        "mythicmetals:banglum_ore",
+        "mythicmetals:nether_banglum_ore",
+        "mythicmetals:banglum_block",
+        "mythicmetals:raw_banglum_block",
         "mythicmetals:aquarium_ore",
         "mythicmetals:aquarium_block",
         "mythicmetals:raw_aquarium_block",

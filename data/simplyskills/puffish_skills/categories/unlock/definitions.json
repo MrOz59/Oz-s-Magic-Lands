@@ -1,7 +1,7 @@
 {
 	"root_luck": {
-		"title":"Sortudo",
-		"description": "§a+1 §f[Nivel]§7 de Sorte",
+		"title":"§aSortudo",
+		"description": " §f[+1 Nivel]§7 de Sorte\nCada nivel aumenta 0.05 sua sorte e 0.01% a chance de crítico",
 		"frame": "challenge",
 		"size": 1.1,
 		"icon": {
@@ -29,8 +29,10 @@
 			"icon": "1xni6u8udevaol3a"
 		}
 	},
-	"root_combate": {
-		"title": "Combate Root",
+	"root_combat": {
+		"title": "§aDialogo é tudo",
+		"description": "§f[+1 Nivel] em Força, Arquearia e Defesa§7",
+		"frame": "challenge",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -69,8 +71,11 @@
 			"icon": "5efm4c3jqyy0tco0"
 		}
 	},
-	"root_mineração": {
-		"title": "Mineração Root",
+	"root_mining": {
+		"title": "§aRock and Stone",
+		"description": "Explore as cavernas com cuidado tem alguma coisa sinistra lá\n§f[+1 Nivel]§7 em Mineração\nCada Nivel desbloqueia ferramenras e blocos novos\nAumenta em 1% a chance de dropar mais minerios",
+		"frame": "challenge",
+		"size": 1.1,
 		"icon": {
 			"type": "item",
 			"data": {
@@ -96,8 +101,10 @@
 			"icon": "544vymb08wy1gy68"
 		}
 	},
-	"root_cultivo": {
-		"title": "Cultivo Root",
+	"root_farming": {
+		"title": "§aVila dos ... oque era mesmo?",
+		"description": "§f[+1 Nivel]§7 de Cultivo\nCada nivel desloqueia novas ferramentas e mobs e aumenta chance de vir mais itens nas colheitas em 1%",
+		"frame": "challenge",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -123,8 +130,10 @@
 			"icon": "5m1pt8qqmeeufvrw"
 		}
 	},
-	"root_ferraria": {
-		"title": "Ferraria Root",
+	"root_forge": {
+		"title": "§aDa uma Martelada",
+		"description": "§f[+1 Nivel]§7 de Forja\nCada nivel desbloqueia novos itens\nDiminui o dano a durabilidade em 1%\nE diminui o custo de xp da bigorna em 0.015%",
+		"frame": "challenge",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -150,8 +159,10 @@
 			"icon": "vh8zycmvkfj8woxr"
 		}
 	},
-	"root_alquimia": {
-		"title": "Alquimia Root",
+	"root_alchemy": {
+		"title": "§aAlquimia",
+		"description": "§f[+1Nivel]§7 de alquimia\nCada nivel desbloqueia novos itens\nAumenta a chance de um encantamento mais forte em 0.5%",
+		"frame": "challenge",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -392,5 +403,473 @@
 		"metadata": {
 			"icon": "0veuo97kkqsxuyuc"
 		}
+	},
+	"strength lv2": {
+		"title": "§aForça Nivel 2",
+		"description": "§f[+ 0.2 de dano]\n",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv3": {
+		"title": "§aForça Nivel 3",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aSivel Short Sword\nStone Short Sword",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv4": {
+		"title": "§aForça Nivel 4",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aEspada de Pedra\nEspada de Cobre\nCopper Long Sword\nStone Claymore\nStone Great Hammer\nStone katzbalger\nStone Pike\nStone Ranseur",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv5": {
+		"title": "§aForça Nivel 5",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aSword on a Stick\nSilver katzbalger",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv6": {
+		"title": "§aForça Nivel 6",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aEspada de Ouro\nBronze Short Sword\nGolden Claymore\nIron Short Sword\nSteel Short Sword\nSilver Pike\nStone Ahlspiess",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv7": {
+		"title": "§aForça Nivel 7",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aBronze katzbalger\nOsmium Sword\nOsmium Claymore\nOsmium Cutlass\nOsmium Glaive\nOsmium Great Hammer\nOsmium Halberd\nOsmium Katana\nOsmium LongSword\nOsmium Scythe\nOsmium Spear",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv8": {
+		"title": "§aForça Nivel 8",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aAquarium Sword\nAquarium Claymore\nAquarium Cutlass\nAquarium Glaive\nAquarium Great Hammer\nAquarium Halberd\nAquarium Katana\nAquarium LongSword\nAquarium Scythe\nAquarium Spear\nIron Sword\nIron Claymore\nIron Great Hammer\nIron Katzbalger\nSilver Ahlpiess",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv9": {
+		"title": "§aForça Nivel 9",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aKyber Sword\nKyber Claymore\nKyber Cutlass\nKyber Glaive\nKyber Great Hammer\nKyber Halberd\nKyber Katana\nKyber LongSword\nKyber Scythe\nKyber Spear\nBanglum Sword\nBanglum Claymore\nBanglum Cutlass\nBanglum Glaive\nBanglum Great Hammer\nBanglum Halberd\nAquariu Katana\nBanglum LongSword\nBanglum Scythe\nBanglum Spear\nBronze Sword\nBronze Glaive\nBronze Great Hammer\nBronze Halberd\nBronze Katana\nBronze LongSword\nBronze Pike\nBronze Ranseur\nBronze Scythe\nBronze Spear",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv10": {
+		"title": "§aForça Nivel 10",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aQuadrillum Sword\nQuadrillum Claymore\nQuadrillum Cutlass\nQuadrillum Glaive\nQuadrillum Great Hammer\nQuadrillum Halberd\nQuadrillum Katana\nQuadrillum LongSword\nQuadrillum Scythe\nQuadrillum Spear",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv11": {
+		"title": "§aForça Nivel 11",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aBronze Ahlpiess\nIron Ahlpiess",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},
+	"strength lv12": {
+		"title": "§aForça Nivel 12",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aSteel Sword\nSteel Glaive\nSteel Great Hammer\nSteel Halberd\nSteel Katana\nSteel LongSword\nSteel Scythe\nSteel Spear\nSteel Katzbalger\nSteel Ahlpiess\nSteel Pike\nSteel Ranseur",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"strength lv13": {
+		"title": "§aForça Nivel 13",
+		"description": "§f[+ 0.2 de dano]",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"strength lv14": {
+		"title": "§aForça Nivel 14",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aDiamond Short Sword",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"strength lv15": {
+		"title": "§aForça Nivel 15",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aDiamond Katzbalger",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"strength lv16": {
+		"title": "§aForça Nivel 16",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aCarmot Sword\nCarmot Sword\nCarmot Claymore\nCarmot Cutlass\nCarmot Glaive\nCarmot Great Hammer\nCarmot Halberd\nCarmot Katana\nCarmot LongSword\nCarmot Scythe\nCarmot Spear\nDiamond Sword\nDiamond Claymore\nDiamond Great Hammer\nMythril Sword\nMythril Claymore\nMythril Cutlass\nMythril Glaive\nMythril Great Hammer\nMythril Halberd\nMythril Katana\nMythril LongSword\nMythril Scythe\nMythril Spear",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"strength lv17": {
+		"title": "§aForça Nivel 17",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aPalladium Sword\nPalladium Claymore\nPalladium Cutlass\nPalladium Glaive\nPalladium Great Hammer\nPalladium Halberd\nPalladium Katana\nPalladium LongSword\nPalladium Scythe\nPalladium Spear\nRunite Sword\nRunite Claymore\nRunite Cutlass\nRunite Glaive\nRunite Great Hammer\nRunite Halberd\nRunite Katana\nRunite LongSword\nRunite Scythe\nRunite Spear\nStormyx Sword\nStormyx Claymore\nStormyx Cutlass\nStormyx Glaive\nStormyx Great Hammer\nStormyx Halberd\nStormyx Katana\nStormyx LongSword\nStormyx Scythe\nStormyx Spear\nTidesinger Sword\n§6Emberblade\nLongsword of the Plague\nStormbringer\nTwisted Blade",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"strength lv18": {
+		"title": "§aForça Nivel 18",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aDurasteel Sword\nLegendary Bang\nOrichalcum Sword\nDiamond Pike\nDiamond Ranseur\nNetherite Katzbalger\nNetherite Short Sword\n§6Frostfall\nLivyatan\nMolten Edge\nSlumbering Lichblade",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"strength lv19": {
+		"title": "§aForça Nivel 19",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aAdamantite Sword\nPrometheum Sword\n§6Arcanethyst\nBrimstone Claymore\nIceWhisper\nSoul Pyre\nSoulrender\nThe Watcher\nThunderbrand\nWaking Lichblade",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
+	},"strength lv20": {
+		"title": "§aForça Nivel 20",
+		"description": "§f[+ 0.2 de dano]\n§fDesbloqueia:\n§aAdamantite Sword\nPrometheum Sword\n§6Arcanethyst\nBrimstone Claymore\nIceWhisper\nSoul Pyre\nSoulrender\nThe Watcher\nThunderbrand\nWaking Lichblade",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add strength 1"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "playerstats @s add level 1"
+				}
+			}
+		],
+		"editor-color": "#fff600"
 	}
+	
 }

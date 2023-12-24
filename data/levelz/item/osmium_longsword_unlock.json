@@ -1,8 +1,8 @@
 {
     "required": false,
-    "replace": false,
+    "replace": true,
     "skill": "strength",
-    "level": 8,
+    "level": 7,
     "item": "minecraft:custom_item",
     "object": "simplyswords:mythicmetals_compat/osmium/osmium_longsword"
 }

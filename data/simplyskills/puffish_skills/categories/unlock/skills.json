@@ -1,6 +1,6 @@
 {
 	"18mcb0o6yoqozgs1": {
-		"definition": "root_mineração",
+		"definition": "root_mining",
 		"x": 128,
 		"y": 0,
 		"root": true
@@ -60,7 +60,7 @@
 		"root": false
 	},
 	"k89267krm1rngssn": {
-		"definition": "root_ferraria",
+		"definition": "root_forge",
 		"x": 0,
 		"y": 0,
 		"root": true
@@ -90,13 +90,13 @@
 		"root": false
 	},
 	"z2a3ljiyyrtkvdoo": {
-		"definition": "root_cultivo",
+		"definition": "root_farming",
 		"x": -128,
 		"y": 0,
 		"root": true
 	},
 	"keot16vximsr501p": {
-		"definition": "root_alquimia",
+		"definition": "root_alchemy",
 		"x": -256,
 		"y": 0,
 		"root": true
@@ -126,7 +126,7 @@
 		"root": false
 	},
 	"5wmi1peucjkblbhi": {
-		"definition": "root_combate",
+		"definition": "root_combat",
 		"x": 0,
 		"y": 73.9008344562721,
 		"root": true
@@ -138,7 +138,7 @@
 		"root": false
 	},
 	"e48x53yyt1wowrnd": {
-		"definition": "força +1",
+		"definition": "strength lv2",
 		"x": 0,
 		"y": 184.75208614068023,
 		"root": false
@@ -168,19 +168,19 @@
 		"root": false
 	},
 	"7mw3q646odaahfui": {
-		"definition": "força +1",
+		"definition": "strength lv3",
 		"x": 0,
 		"y": 258.6529205969523,
 		"root": false
 	},
 	"k4pzicsw5hpi7gui": {
-		"definition": "força +1",
+		"definition": "strength lv4",
 		"x": 0,
 		"y": 332.55375505322445,
 		"root": false
 	},
 	"g44cdvffmul7h46b": {
-		"definition": "força +1",
+		"definition": "strength lv5",
 		"x": 0,
 		"y": 406.4545895094965,
 		"root": false
@@ -768,85 +768,85 @@
 		"root": false
 	},
 	"nnhb6ukh4ejpy3ib": {
-		"definition": "força +1",
+		"definition": "strength lv6",
 		"x": 0,
 		"y": 480.35542396576864,
 		"root": false
 	},
 	"2cybl5686oonermq": {
-		"definition": "força +1",
+		"definition": "strength lv7",
 		"x": 0,
 		"y": 554.2562584220407,
 		"root": false
 	},
 	"miev3c36lv39s1ri": {
-		"definition": "força +1",
+		"definition": "strength lv8",
 		"x": 0,
 		"y": 628.1570928783128,
 		"root": false
 	},
 	"itagkqoajor7gxk5": {
-		"definition": "força +1",
+		"definition": "strength lv9",
 		"x": 0,
 		"y": 702.0579273345849,
 		"root": false
 	},
 	"8aag9i3ngilzcbsw": {
-		"definition": "força +1",
+		"definition": "strength lv10",
 		"x": 0,
 		"y": 775.958761790857,
 		"root": false
 	},
 	"4f5li9143y11xjl7": {
-		"definition": "força +1",
+		"definition": "strength lv11",
 		"x": 0,
 		"y": 849.859596247129,
 		"root": false
 	},
 	"uo8yu5cwkry7gxmv": {
-		"definition": "força +1",
+		"definition": "strength lv12",
 		"x": 0,
 		"y": 923.7604307034012,
 		"root": false
 	},
 	"3oyvtpfnwa8d7knv": {
-		"definition": "força +1",
+		"definition": "strength lv13",
 		"x": 0,
 		"y": 997.6612651596732,
 		"root": false
 	},
 	"phscjckja2quly73": {
-		"definition": "força +1",
+		"definition": "strength lv14",
 		"x": 0,
 		"y": 1071.5620996159453,
 		"root": false
 	},
 	"wr2pcegze1gw5met": {
-		"definition": "força +1",
+		"definition": "strength lv15",
 		"x": 0,
 		"y": 1145.4629340722174,
 		"root": false
 	},
 	"26l2ko1c25hv6lfh": {
-		"definition": "força +1",
+		"definition": "strength lv16",
 		"x": 0,
 		"y": 1219.3637685284896,
 		"root": false
 	},
 	"l3sin89jukx83fuk": {
-		"definition": "força +1",
+		"definition": "strength lv17",
 		"x": 0,
 		"y": 1293.2646029847617,
 		"root": false
 	},
 	"nniucyzolnt2q4bk": {
-		"definition": "força +1",
+		"definition": "strength lv18",
 		"x": 0,
 		"y": 1367.1654374410336,
 		"root": false
 	},
 	"jk5iyiblbrt7ekm5": {
-		"definition": "força +1",
+		"definition": "strength lv19",
 		"x": 0,
 		"y": 1441.0662718973058,
 		"root": false
@@ -942,7 +942,7 @@
 		"root": false
 	},
 	"1bnas2fcoukkegcl": {
-		"definition": "força +1",
+		"definition": "strength lv20",
 		"x": 0,
 		"y": 1514.967106353578,
 		"root": false

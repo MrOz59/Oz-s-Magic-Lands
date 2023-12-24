@@ -1,8 +1,8 @@
 {
     "required": false,
-    "replace": false,
+    "replace": true,
     "skill": "strength",
-    "level": 9,
+    "level": 10,
     "item": "minecraft:custom_item",
     "object": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_cutlass"
 }

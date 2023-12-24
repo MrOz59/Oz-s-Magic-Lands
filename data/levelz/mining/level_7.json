@@ -2,6 +2,9 @@
     "replace": false,
     "level": 7,
     "block": [
+        "mythicmetals:osmium_ore",
+        "mythicmetals:osmium_block",
+        "mythicmetals:raw_osmium_block",
         "minecraft:gold_ore",
         "minecraft:gold_block",
         "minecraft:deepslate_gold_ore",

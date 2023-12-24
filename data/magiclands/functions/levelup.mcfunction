@@ -1,1 +1,0 @@
-puffish_skills points add @s simplyskills:tree 1

@@ -1,8 +1,8 @@
 {
     "required": false,
-    "replace": false,
+    "replace": true,
     "skill": "farming",
-    "level": 9,
+    "level": 10,
     "item": "minecraft:axe",
     "material": "quadrillum"
 }

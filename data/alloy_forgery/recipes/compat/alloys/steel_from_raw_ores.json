@@ -1,0 +1,28 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:item_tags_populated",
+      "values": [
+        "c:coal",
+        "c:raw_iron_ores",
+        "c:steel_ingots"
+      ]
+    }
+  ],
+  "type": "alloy_forgery:forging",
+  "inputs": [{
+    "id": "minecraft:air"
+  }
+    
+  ],
+  "output": {
+    "id": "minecraft:air"
+  },
+  "overrides": {
+    "2+": {
+      "count": 3
+    }
+  },
+  "min_forge_tier": 1,
+  "fuel_per_tick": 5
+}

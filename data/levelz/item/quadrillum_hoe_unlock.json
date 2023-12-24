@@ -1,8 +1,8 @@
 {
     "required": false,
-    "replace": false,
+    "replace": true,
     "skill": "farming",
-    "level": 19,
+    "level": 10,
     "item": "minecraft:hoe",
     "material": "quadrillum"
 }
